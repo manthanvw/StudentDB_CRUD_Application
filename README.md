@@ -39,7 +39,7 @@ PUT: Update data
 
 DELETE: Delete a record
 
-### Send all requests to http://localhost:3000.
+### Send all requests to http://localhost:3000/
 
 If the connection URL in connection.js doesn't work, obtain the correct URL from MongoDB.
 
