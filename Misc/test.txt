@@ -1,0 +1,2 @@
+This program prompts the user to enter the path of the file they want to read. It then uses fs.readFile to read the contents of the file. If an error occurs during the reading process, it prints an error message. Otherwise, it prints the content of the file to the console.
+Save this code in a file, for example, readFile.js, and run it using the command:
